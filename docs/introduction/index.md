@@ -23,9 +23,9 @@ Another reason many organizations adopt Friendly Captcha is for its commitment t
 
 ## How does it work?
 
-The Friendly Captcha widget serves a cryptographic puzzle which is solved by the user's device. The Friendly Captcha system analyzes various signals to compute a risk score, which is used to increase the difficulty of the puzzle. The main idea is that abusers will get high risk scores and difficult puzzles, while normal users will get low risk scores and easy puzzles.
+The Friendly Captcha widget serves a cryptographic puzzle at  which is solved by the user's device. The Friendly Captcha system analyzes various signals to compute a risk score, which is used to increase the difficulty of the puzzle. The main idea is that abusers will get high risk scores and difficult puzzles, while normal users will get low risk scores and easy puzzles.
 
-This happens in the background, so that by the time a user is ready to submit a form on your website, the puzzle is often already solved.
+This happens in the background, so that by the time a user is ready to submit a form on your [website](https://phyfundamentals.org/), the puzzle is often already solved.
 
 ## Next Steps
 
